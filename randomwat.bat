@@ -1,6 +1,5 @@
 @echo off 
 goto start
-
 :start
 title PASSWORD
 color 0a
